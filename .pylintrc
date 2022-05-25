@@ -1,0 +1,11 @@
+[Message Control]
+disable = wildcard-import,
+          unused-wildcard-import,
+          unused-import,
+          redefined-builtin,
+          undefined-variable,
+          useless-else-on-loop,
+          broad-except,
+          bare-except,
+          redefined-outer-name,
+            

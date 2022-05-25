@@ -1,0 +1,10 @@
+{
+  "name": "Telegram",
+  "description": "A bot",
+  "keywords": ["telegram"],
+  "repository": "https://github.com/AlbertEinsteinTG/Thum-Capt",
+  "success_url": "https://t.me/CrazyBotsz",
+  "website": "https://github.com/AlbertEinsteinTG/Thum-Capt",
+  "env": {},
+  "stack": "container"
+}

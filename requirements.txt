@@ -1,0 +1,13 @@
+pyrogram
+tgcrypto
+aiohttp
+requests
+pymongo
+dnspython
+motor
+heroku3
+psutil
+pyromod
+hachoir
+numpy
+pillow
